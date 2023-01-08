@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data/>
+    <FrameLayout android:id="@+id/frameNotifikasiBerh"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" style="@style/groupStylewhite_A700">
+        <LinearLayout android:id="@+id/linearColumnlocation"
+            android:layout_gravity="start"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/_10pxv"
+            android:layout_width="match_parent" android:orientation="vertical">
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbarToolbar"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                app:contentInsetStart="0dp" style="@style/groupStylewhite_A700">
+                <LinearLayout android:id="@+id/linearRowlocation"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_18pxv"
+                    android:layout_marginEnd="@dimen/_16pxh"
+                    android:layout_marginStart="@dimen/_16pxh"
+                    android:layout_marginTop="@dimen/_18pxv"
+                    android:layout_width="match_parent" android:orientation="horizontal">
+                    <ImageView android:id="@+id/imageLocation"
+                        android:layout_height="@dimen/_8pxh"
+                        android:layout_marginBottom="@dimen/_4pxv"
+                        android:layout_marginTop="@dimen/_4pxv"
+                        android:layout_width="@dimen/_30pxh"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/img_location"
+                        tools:ignore="ContentDescription" tools:src="@drawable/img_location"/>
+                    <ImageView android:id="@+id/imageSignal"
+                        android:layout_height="@dimen/_18pxh"
+                        android:layout_marginStart="@dimen/_305pxh"
+                        android:layout_width="@dimen/_59pxh"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/img_signal"
+                        tools:ignore="ContentDescription" tools:src="@drawable/img_signal"/>
+                </LinearLayout>
+            </androidx.appcompat.widget.Toolbar>
+            <androidx.appcompat.widget.AppCompatButton
+                android:ellipsize="end" android:gravity="center"
+                android:id="@+id/btnNotifikasi"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:paddingBottom="@dimen/_18pxv"
+                android:paddingEnd="@dimen/_30pxh"
+                android:paddingStart="@dimen/_30pxh"
+                android:paddingTop="@dimen/_18pxv"
+                android:singleLine="true"
+                android:text="@string/lbl_notifikasi"
+                android:textAllCaps="false" style="@style/btnSolid" tools:text="@string/lbl_notifikasi"/>
+            <LinearLayout android:gravity="center_horizontal"
+                android:id="@+id/linearColumnsipusfour"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical" style="@style/groupStylebluegray_100">
+                <ImageView android:id="@+id/imageSIPUSFour"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="@dimen/_166pxh"
+                    android:layout_marginEnd="@dimen/_92pxh"
+                    android:layout_marginStart="@dimen/_92pxh"
+                    android:layout_marginTop="@dimen/_3pxv"
+                    android:layout_width="@dimen/_190pxh"
+                    android:scaleType="fitXY"
+                    imageRes="@{@drawable/img_sipus6}"
+                    tools:ignore="ContentDescription" tools:src="@drawable/img_sipus6"/>
+                <ImageView android:id="@+id/imagePngwingOne"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="@dimen/_150pxh"
+                    android:layout_marginEnd="@dimen/_92pxh"
+                    android:layout_marginStart="@dimen/_92pxh"
+                    android:layout_marginTop="@dimen/_8pxv"
+                    android:layout_width="@dimen/_150pxh"
+                    android:scaleType="fitXY"
+                    imageRes="@{@drawable/img_pngwing1}"
+                    tools:ignore="ContentDescription" tools:src="@drawable/img_pngwing1"/>
+                <TextView android:ellipsize="end"
+                    android:gravity="center_horizontal"
+                    android:id="@+id/txtLoginTelahBer"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_92pxh"
+                    android:layout_marginStart="@dimen/_92pxh"
+                    android:layout_marginTop="@dimen/_42pxv"
+                    android:layout_width="match_parent"
+                    android:singleLine="true"
+                    android:text="@string/msg_login_telah_ber"
+                    style="@style/txtSairaromanbold24" tools:text="@string/msg_login_telah_ber"/>
+                <TextView android:ellipsize="end"
+                    android:id="@+id/txtKlikSelanjutny"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_92pxh"
+                    android:layout_marginStart="@dimen/_92pxh"
+                    android:layout_marginTop="@dimen/_9pxv"
+                    android:layout_width="wrap_content"
+                    android:singleLine="true"
+                    android:text="@string/msg_klik_selanjutny"
+                    style="@style/txtOutfitregular12" tools:text="@string/msg_klik_selanjutny"/>
+                <androidx.appcompat.widget.AppCompatButton
+                    android:ellipsize="end" android:gravity="center"
+                    android:id="@+id/btnSelanjutnya"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_89pxv"
+                    android:layout_marginEnd="@dimen/_92pxh"
+                    android:layout_marginStart="@dimen/_92pxh"
+                    android:layout_marginTop="@dimen/_163pxv"
+                    android:layout_width="match_parent"
+                    android:paddingBottom="@dimen/_15pxv"
+                    android:paddingEnd="@dimen/_30pxh"
+                    android:paddingStart="@dimen/_30pxh"
+                    android:paddingTop="@dimen/_15pxv"
+                    android:singleLine="true"
+                    android:text="@string/lbl_selanjutnya"
+                    android:textAllCaps="false"
+                    style="@style/btnSolidRounded" tools:text="@string/lbl_selanjutnya"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical"
+                android:id="@+id/linearRowcopyrighticon"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_128pxh"
+                android:layout_marginStart="@dimen/_128pxh"
+                android:layout_marginTop="@dimen/_30pxv"
+                android:layout_width="wrap_content" android:orientation="horizontal">
+                <ImageView android:id="@+id/imageCopyrighticon"
+                    android:layout_height="@dimen/_24pxh"
+                    android:layout_width="@dimen/_28pxh"
+                    android:scaleType="centerCrop" circular="@{true}"
+                    imageRes="@{@drawable/img_copyrighticon}"
+                    tools:ignore="ContentDescription" tools:src="@drawable/img_copyrighticon"/>
+                <TextView android:ellipsize="end"
+                    android:id="@+id/txtCopyright2023S"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_5pxv"
+                    android:layout_marginTop="@dimen/_4pxv"
+                    android:layout_weight="0.84"
+                    android:layout_width="0dp" android:singleLine="true"
+                    android:text="@string/msg_copyright2023_s"
+                    style="@style/txtIntermedium14" tools:text="@string/msg_copyright2023_s"/>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+</layout>
