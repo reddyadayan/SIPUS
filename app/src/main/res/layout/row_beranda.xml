@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data/>
+    <FrameLayout android:id="@+id/frameStackrectangletwo"
+        android:layout_height="wrap_content" android:layout_width="@dimen/_325pxh">
+        <View android:background="@color/black_900_9e"
+            android:id="@+id/viewRectangleTwo"
+            android:layout_gravity="bottom|start"
+            android:layout_height="@dimen/_170pxv"
+            android:layout_marginBottom="@dimen/_24pxv"
+            android:layout_marginTop="@dimen/_24pxv" android:layout_width="@dimen/_325pxh"/>
+        <LinearLayout android:id="@+id/linearColumndetikbali"
+            android:layout_gravity="start"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="vertical" style="@style/groupStylewhite_A700">
+            <TextView android:ellipsize="end"
+                android:id="@+id/txtDetikbali"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_307pxv"
+                android:layout_width="wrap_content"
+                android:lineSpacingExtra="@dimen/_1pxh"
+                android:singleLine="true"
+                android:text="@string/lbl_detikbali"
+                style="@style/txtInterregular13" tools:text="@string/lbl_detikbali"/>
+            <TextView android:ellipsize="end"
+                android:id="@+id/txtBanjir"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_7pxv"
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:text="@string/lbl_banjir"
+                style="@style/txtInterbold24_1" tools:text="@string/lbl_banjir"/>
+            <TextView android:id="@+id/txtHujanDerasGuy"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_7pxv"
+                android:layout_width="match_parent"
+                android:lineSpacingExtra="@dimen/_7pxh"
+                android:text="@string/msg_hujan_deras_guy"
+                style="@style/txtInterregular15_1" tools:text="@string/msg_hujan_deras_guy"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:ellipsize="end" android:gravity="center"
+                android:id="@+id/btnSelengkapnya"
+                android:layout_height="@dimen/_25pxv"
+                android:layout_marginBottom="@dimen/_42pxv"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_18pxv"
+                android:layout_width="@dimen/_100pxh"
+                android:lineSpacingExtra="@dimen/_1pxh"
+                android:paddingBottom="@dimen/_6pxv"
+                android:paddingEnd="@dimen/_9pxh"
+                android:paddingStart="@dimen/_8pxh"
+                android:paddingTop="@dimen/_6pxv"
+                android:singleLine="true"
+                android:text="@string/lbl_selengkapnya"
+                android:textAllCaps="false"
+                style="@style/btnGradientRounded" tools:text="@string/lbl_selengkapnya"/>
+        </LinearLayout>
+    </FrameLayout>
+</layout>

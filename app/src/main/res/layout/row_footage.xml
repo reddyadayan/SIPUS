@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data/>
+    <FrameLayout android:id="@+id/frameTripcards"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent" style="@style/groupStylecornerRadius_2">
+        <View
+            android:background="@drawable/rectangle_gradient_s_black_900_00_e_black_900"
+            android:id="@+id/viewRectangleNine"
+            android:layout_gravity="bottom|start"
+            android:layout_height="@dimen/_102pxv"
+            android:layout_marginTop="@dimen/_10pxv" android:layout_width="@dimen/_175pxh"/>
+        <TextView android:gravity="top|start"
+            android:id="@+id/txtKerusakanInfra"
+            android:layout_gravity="bottom|start"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_20pxv"
+            android:layout_marginEnd="@dimen/_14pxh"
+            android:layout_marginStart="@dimen/_14pxh"
+            android:layout_marginTop="@dimen/_20pxv"
+            android:layout_width="match_parent"
+            android:text="@string/msg_kerusakan_infr"
+            style="@style/txtPoppinssemibold20" tools:text="@string/msg_kerusakan_infr"/>
+    </FrameLayout>
+</layout>

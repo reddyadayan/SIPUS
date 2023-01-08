@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">sipus</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_selamat_datang">Selamat Datang,</string>
+<string name="lbl_detikbali">detikbali</string>
+<string name="lbl_bantuan">Bantuan</string>
+<string name="msg_klik_selanjutny">Klik Selanjutnya Untuk Menuju Beranda</string>
+<string name="lbl_laporan_proyek">Laporan Proyek</string>
+<string name="lbl_radit_undiksha">radit@undiksha</string>
+<string name="lbl_selanjutnya">Selanjutnya</string>
+<string name="lbl_2_januari_2023">2 Januari 2023</string>
+<string name="lbl_beranda">Beranda</string>
+<string name="lbl_masukan_email"> Masukan Email </string>
+<string name="msg_23_422_pelangga">23.422 Pelanggan di Bali Terdampak Cuaca Ekstrem, Singaraja Terparah, PLN Bergerak</string>
+<string name="msg_struktur_organi">Struktur Organisasi</string>
+<string name="msg_kebijakan_priba">Kebijakan pribadi</string>
+<string name="lbl_proyek">Proyek</string>
+<string name="lbl_singaraja_bali">singaraja, Bali</string>
+<string name="lbl_kembali">Kembali</string>
+<string name="lbl_lupa_password">Lupa Password ?</string>
+<string name="lbl_smart_city">Smart City</string>
+<string name="msg_kerusakan_infr">Kerusakan 
+Infrastruktur</string>
+<string name="lbl_invalid_number">Invalid Number</string>
+<string name="lbl_laporan_banjir">Laporan Banjir</string>
+<string name="msg_laporan_sudah_d">Laporan Sudah Diterima</string>
+<string name="msg_pengunjung_yout">Pengunjung Youtube SIPUS
+34.96%</string>
+<string name="msg_cuaca_mendung_d">cuaca mendung di daerah kaliuntu</string>
+<string name="msg_laporan_telah_d">Laporan Telah Dikirim !</string>
+<string name="lbl_pencarian">Pencarian</string>
+<string name="msg_pengunjung_app2">Pengunjung APP SIPUS 65.04%</string>
+<string name="lbl_nama">Nama</string>
+<string name="msg_laporan_kerusa">Laporan 
+Kerusakan Infrastruktur</string>
+<string name="msg_grow_with_us_by">Grow With us by one Tap</string>
+<string name="lbl_banjir">Banjir</string>
+<string name="msg_masukan_passwor">Masukan Password</string>
+<string name="msg_pengunjung_yout2">Pengunjung Youtube SIPUS 34.96%</string>
+<string name="lbl_file">File</string>
+<string name="msg_silakan_login_k">Silakan Login Kembali</string>
+<string name="msg_register_telah">Register Telah Berhasil !</string>
+<string name="lbl_281032">281032+</string>
+<string name="lbl_username">Username</string>
+<string name="msg_8_menit_yang_la">8 menit yang lalu.</string>
+<string name="lbl_indah">Indah</string>
+<string name="msg_atau_buat_akun">Atau Buat Akun Baru</string>
+<string name="msg_masukan_usernam">Masukan Username &amp; Password</string>
+<string name="lbl_rd">RD</string>
+<string name="msg_telah_mengupdat">Telah Mengupdate Data</string>
+<string name="msg_pengunjung_app">Pengunjung APP SIPUS
+65.04%</string>
+<string name="lbl_berita_terkini">Berita Terkini</string>
+<string name="lbl_email">Email</string>
+<string name="msg_sistem_informas">Sistem Informasi Pekerjaan Umum Singaraja (SIPUS) merupakan sebuah sistem yang
+dapat memantau dan mengelola pekerjaan-pekerjaan umum yang terjadi di kota Singaraja.</string>
+<string name="lbl_dashboard">Dashboard</string>
+<string name="lbl_atau">Atau</string>
+<string name="lbl_1_januari_2023">1 Januari 2023</string>
+<string name="lbl_0_200">0/200</string>
+<string name="msg_1_data_pribadi">1. DATA PRIBADI
+
+Seperti yang digunakan dalam Pemberitahuan ini:
+\u201cData pribadi\u201d berarti data, apakah benar atau tidak, tentang seorang individu (apakah calon pengguna layanan, pengguna layanan, perwakilan resmi pengguna layanan atau lainnya) yang dapat diidentifikasi: (a) dari data tersebut; atau (b) dari data itu dan informasi lain yang kami miliki atau mungkin memiliki akses.
+
+Bergantung pada sifat interaksi Anda dengan kami, beberapa contoh data pribadi yang dapat kami kumpulkan dari Anda termasuk nama, informasi kontak seperti kota tempat tinggal, kode pos, alamat email atau nomor telepon, kebangsaan, jenis kelamin, usia, informasi pekerjaan dan latar belakang pendidikan
+
+2. PENGUMPULAN, PENGGUNAAN DAN PENGUNGKAPAN DATA PRIBADI
+Kami umumnya tidak mengumpulkan data pribadi Anda kecuali (a) diberikan kepada kami secara sukarela oleh Anda secara langsung atau melalui pihak ketiga yang telah diberi wewenang oleh Anda untuk mengungkapkan data pribadi Anda kepada kami (\u201cperwakilan resmi\u201d Anda) setelah (i ) Anda (atau perwakilan resmi Anda) telah diberitahu tentang tujuan pengumpulan data, dan (ii) Anda (atau perwakilan resmi Anda) telah memberikan persetujuan tertulis untuk pengumpulan dan penggunaan data pribadi Anda untuk tujuan tersebut, atau (B) pengumpulan dan penggunaan data pribadi tanpa persetujuan diizinkan atau diharuskan oleh hukum. Kami akan meminta persetujuan Anda sebelum mengumpulkan data pribadi tambahan dan sebelum menggunakan data pribadi Anda untuk tujuan yang belum diberitahukan kepada Anda (kecuali jika diizinkan atau diizinkan oleh hukum).
+
+Kami dapat mengumpulkan dan menggunakan data pribadi Anda untuk salah satu atau semua tujuan berikut:
+
+membangun atau mengelola hubungan Anda dengan kami. Ini termasuk:
+
+Jika Anda adalah calon pengguna layanan:
+
+memproses dan mengevaluasi aplikasi Anda untuk layanan kami
+
+Jika Anda adalah pengguna layanan:
+- Memantau, mengevaluasi dan / atau mengaudit layanan yang disediakan. Ini mungkin termasuk penilaian terhadap kualitas layanan yang diberikan dan efek dari layanan yang diberikan (baik dalam jangka pendek dan jangka panjang, dan setelah Anda berhenti menggunakan layanan)
+- Memberi Anda informasi tentang acara atau kegiatan kami yang akan datang, di mana Anda secara khusus telah meminta untuk menerima informasi tersebut; menanggapi, menangani, dan memproses pertanyaan, permintaan, aplikasi, keluhan, dan umpan balik dari Anda
+- Mematuhi hukum, peraturan, kode praktik, pedoman, atau aturan apa pun yang berlaku, atau untuk membantu penegakan hukum dan investigasi yang dilakukan oleh otoritas pemerintah dan / atau regulator
+
+Kami dapat mengungkapkan data pribadi Anda:
+- di mana pengungkapan seperti itu diperlukan untuk, atau sehubungan dengan, penyediaan layanan yang Anda minta untuk mematuhi hukum, peraturan, kode praktik, pedoman, aturan atau permintaan apa pun yang berlaku oleh badan publik, atau untuk membantu penegakan hukum dan penyelidikan \pihak lain yang Anda beri wewenang kepada kami untuk mengungkapkan data pribadi Anda, atau jika perlu untuk melakukan tindakan apa pun yang diminta oleh Anda.</string>
+<string name="lbl_selengkapnya">Selengkapnya</string>
+<string name="lbl_masukan_gambar">Masukan Gambar</string>
+<string name="lbl_buat_akun_baru">Buat Akun Baru</string>
+<string name="msg_copyright2023_s">copyright2023 SIPUS</string>
+<string name="lbl_notifikasi">Notifikasi</string>
+<string name="msg_kebijakan_priba2">Kebijakan Pribadi</string>
+<string name="lbl_informasi">Informasi</string>
+<string name="lbl_diterima">Diterima</string>
+<string name="lbl_grow_together">Grow Together</string>
+<string name="lbl_login">Login</string>
+<string name="lbl_bali_jpnn_com">bali.jpnn.com</string>
+<string name="lbl_buat_account">Buat Account !</string>
+<string name="lbl_tentang_kami">Tentang Kami</string>
+<string name="lbl_infrastruktur">Infrastruktur</string>
+<string name="lbl_punya_akun">Punya Akun ?</string>
+<string name="lbl_laporan_cuaca">Laporan Cuaca</string>
+<string name="msg_masukan_usernam2">Masukan Username</string>
+<string name="lbl_password">Password</string>
+<string name="lbl_daftar">Daftar</string>
+<string name="lbl_laporan">Laporan</string>
+<string name="msg_1_menit_yang_la">1 menit yang lalu.</string>
+<string name="lbl_radit">Radit</string>
+<string name="msg_selamat_datang">Selamat Datang !</string>
+<string name="lbl_www_pu_go_id">www.pu.go.id</string>
+<string name="msg_login_telah_ber">Login Telah Berhasil !</string>
+<string name="msg_hujan_deras_guy">Hujan Deras Guyur Buleleng, Jalan Singaraja-Seririt Terendam Banjir</string>
+<string name="lbl_radit_gmail_com">Radit@gmail.com</string>
+<string name="lbl_deskripsi">Deskripsi</string>
+<string name="lbl_daftar_sekarang"> Daftar Sekarang</string>
+<string name="lbl_cuaca">Cuaca</string>
+<string name="msg_banjir_di_daera">Banjir di daerah Banyuning Indah</string>
+<string name="msg_statistik_pengu">Statistik Pengunjung SIPUS Singaraja</string>
+<string name="msg_dukung_pemerata">Dukung Pemerataan Ekonomi Kawasan Bali Utara, Kementerian PUPR Lanjutkan Pembangunan Jalan Pintas Mengwitani-Singaraja</string>
+</resources>
